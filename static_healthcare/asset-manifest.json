@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/healthcare/static/css/main.2bc66790.css",
-    "main.js": "/healthcare/static/js/main.7a261209.js",
+    "main.js": "/healthcare/static/js/main.881e8db6.js",
     "static/media/LoginPageImage.jpg": "/healthcare/static/media/LoginPageImage.69100f83c95ebda21129.jpg",
     "static/media/BharatSevaLogo1.png": "/healthcare/static/media/BharatSevaLogo1.f9eb3a6fa2dd4d2d70b6.png",
     "index.html": "/healthcare/index.html",
     "main.2bc66790.css.map": "/healthcare/static/css/main.2bc66790.css.map",
-    "main.7a261209.js.map": "/healthcare/static/js/main.7a261209.js.map"
+    "main.881e8db6.js.map": "/healthcare/static/js/main.881e8db6.js.map"
   },
   "entrypoints": [
     "static/css/main.2bc66790.css",
-    "static/js/main.7a261209.js"
+    "static/js/main.881e8db6.js"
   ]
 }
