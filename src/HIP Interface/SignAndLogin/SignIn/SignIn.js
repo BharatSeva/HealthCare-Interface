@@ -22,9 +22,9 @@ export default function SignIN() {
   useEffect(() => {
     // Parse URL query parameters and populate form fields if they exist
     const params = new URLSearchParams(window.location.search);
-    const healthcare_id = params.get("healthcare_id");
-    const password = params.get("pass");
-    const license = params.get("license");
+    const healthcare_id = params.get("healthcare_id") || "GuestUser-001";
+    const license = params.get("license") || "GuestUser-001";
+    const password = params.get("pass") || "12345";
 
     if (healthcare_id || password) {
       SetFormData((prev) => ({
